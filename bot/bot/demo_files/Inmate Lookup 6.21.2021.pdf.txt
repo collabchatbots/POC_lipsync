@@ -1,0 +1,103 @@
+NYC
+DEPARTMENT OF
+CORRECTION
+v1.0.04
+INMATE LOOKUP
+Help
+SERVICE
+Learn more about eligibility for public
+benefits, programs and tax credits.
+NYC.GOV/
+ACCESSNYC
+BENEFIT INFORMATION ONE PLACE.
+Inmate Detail
+BOOKMAN, DAVID
+NYSID:
+02309676J
+Year of Birth:
+1985
+Sex:
+Male
+Race:
+Black
+Height:
+5 ft 7 inches
+Weight:
+170 lbs
+Hair Color:
+Black
+Eye Color:
+Brown
+Nativity:
+New York
+Booking Information
+Incarceration 30-JUN-2020
+Book & Case Number:
+3492001684
+Current Housing Facility:
+NIC (). (North Infirmary Command)
+Arrest Date:
+30-JUN-2020
+Arrest Number:
+M20619484L
+Next Court Date:
+30-JUN-2021
+Bail and/or Bond:
+$50,001.00 bail or $250,001.00 bond (Partially Secured Bond Available)
+Charge Information
+Docket:
+CR-011892-20NY
+Indictment:
+00893/2020
+Court Part:
+VTC-ARDC
+Court Name:
+ARDC Video Conferencing
+Charge:
+110-125.25 FB (Attempted MURDER-2ND DEG B Felony)
+Docket:
+CR-004424-20NY
+Indictment:
+00000 0000
+Court Part:
+VTC-MDC
+Court Name:
+MDC Video Conferencing
+Charge:
+121.11 MA ( A Misdemeanor)
+Warrants
+Warrant
+Type
+Charge
+Severity
+New York State
+00810009
+265.03 ( PL%20265.03
+F
+Department of Parole
+New York State
+00810144
+265.03 ( PL%20265.03)
+F
+Department of Parole
+Warrant #
+Type
+Charge
+Severity
+110-265.03 ( Attempted
+New York State
+00752065
+CRIM POSS WEAPON- 2NDF
+Department of Parole
+DEGREE )
+Search for another inmate
+Back to search results
+Send Money
+Pay Bail
+Inmates released over 30 days ago will not be displayed.
+If you encounter a difficulty trying to pay bail online, please call 718-546-1500 Monday to Friday
+during business hours for more information. You are always able to travel to a DOC facility in
+person to pay bail 24/7 using cash. money order or cashier's check DOC facilities. More
+Copyright 2021 Department of Correction. Usage Policy
+information about how and where to pay bail is available at [http://www1.nyc.gov/site/doc/inmate-
+info/post-bail.page]

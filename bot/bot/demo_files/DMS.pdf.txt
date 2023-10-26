@@ -1,0 +1,785 @@
+63. The number of terms in a complete
+(C) May or may not be a lattice
+DNF of a Boolean function with n
+(D) None of these
+variables is :
+67
+The power set of any universal set is
+(A) Bounded lattice
+(A) (n)
+(B) Unbounded Lattice
+(B) >2n
+(C) Only upper bounded lattice
+(C) <2n
+(D) Only lower bounded lattice
+(D) None of these
+68. Pv(P Q) v{ (PvQ)} is a:
+64.
+Let L be a Lattice, then hanb=a iff :
+(A) Tautology
+(A) avb=b.
+(B) Contradiction
+(B) avb=a
+(C) Contingency
+(C) avb=
+(D) Satisfiable but invalid
+\
+(D) None of these
+69 The length of a Hamiltonian path (if it
+exists) in a connected graph of n
+65. The Hasse diagram of a finite linearly
+vertices is :
+ordered set is always :
+(A) n
+(A) A triangular structure
+(B) n+1
+(B) A square structure
+(C) n-1
+(C) A linear path
+(D) n(n+1)
+(D) None of these
+70.
+66
+Let (L, <) be a poset. If (L, <) is a
+The number of spanning trees in a
+complete graph with 5 vertices is :
+lattice, then the dual of the poset
+(A) 125
+(L, <) is :
+(B) 25
+(A) Also a lattice
+(C) 625
+(B) Not a lattice
+(D) 120
+CO - - 17/18
+(12)
+2029 Contd.
+-
+21.
+The maximum number of edges
+(B)
+possible in a simple bipartite graph
+with 12 vertices is :
+(D)
+(A) 24
+75 The degree of each region in a
+(B) 36
+polyhedral graph (degree of each
+(Q) 48
+region > 3) with 12 vertices and 30
+(D) 64
+edges is :
+72 The total number of vertices in a graph
+(A) 2
+containing 21 edges, where 3
+(B) 4
+vertices are of degree 4 and other
+(C) 3
+vertices are of degree 3, is :
+(A) 10
+(D) 5
+(B) 13
+76. A positive semi-definite quadratic
+(C) 11
+form f(x) = XTAX, where XTERN and
+(D) 12
+A is an n-rowed square matrix, is a :
+(A) Strictly convex function over Rn
+73
+A given connected graph G is an
+Euler graph, iff all vertices of G are
+(B) Strictly concave function over Rn
+of :
+(C) Convex function over Rn
+(A) Same degree
+(D) Concave function over Rn
+(B) Even degree
+77. The two phase simplex method is
+of Old degree
+used to solve a Linear Programming
+(D) Different degree
+Problem which involves :
+74. Suppose a planar graph has K1
+(A) Slack variable
+components, e1 edges, V1, vertices
+(B) Basic variable
+and r1 regions. Then :
+(C) Surplus variable
+(A)
+(D) Artificial variable
+CO - 17/18
+( (13)
+(Turn over)
+66. The contrapositive of the statement
+"I come to class whenever there is
+going to be a quiz" is :
+(A) If I do not come to class then
+there will be a quiz
+(B) If I come to the class then
+there will be a quiz
+(C) If there will not be a quiz then I
+do not come to class
+(D) If I do not come to class then
+there will not be a quiz
+( Turn over )
+67. If n is an integer and 3n + 4 is odd,
+70. Alattice is a partially order set (L, S)
+then :
+in which every pair of elements
+(A) n is prime
+a, b E L has :
+(B) n is odd
+(A) a greatest lower bound
+(C) n is even
+(B) a least upper bound
+(D) n is a natural number
+(C) a glb and a lub
+68. On the set of integers, the relation
+(D) a glb or a lub
+"greater than or equal" is :
+71, In a distributive lattice (L, <), if
+(A) Only reflexive
+b, C E L and bAC=0 then :
+(B) Only symmteric
+(C) Only antisymmetric
+(A) c<b
+G
+(D) Only poset
+(B) bsc
+mix
+x2x
+69. By the principle of mathematical
+(C) c<b
+7/49
+induction, 12 + 32 + 52 +....+
+(D) b<c
+(2n 1)2 is :
+72. The number of different Boolean
+(A) intn
+function of degree n is
+(A) 2n-2
+(B) n(2n-1)(2n+1)
+(B) 2n-1
+(c) n(2n-nx2n+1)
+(C) 2n
+(D) 2n+1
+(D) n(n+1)(2n+1)
+Contd.
+IW - 15/26
+( 14)
+73. f G = (V,E E) be an undirected graph
+76. If n is an integer and 3n + 2 is even,
+with e edges, then the sum of the
+then n is :
+degrees of vertices is :
+(A) odd
+(A) 5e
+(B) even
+(B) 4e
+(C) prime
+(D) perfect
+(C) 3e
+77. A tree with 10 vertices has :
+(D)/ 2e
+(A) 7 edges
+s
+74 In a simple graph, the maximum
+(B) 8 edges
+number of edges with n vertices is :
+(C) 9 edges
+(A) n(n+1)
+(D) 10 edges
+78. A full m-ary tree with i internal vertices
+contains :
+(c)
+(n-1)(n-2)
+(A) mi -2 vertices
+(D) (n-2)(n-3)
+(B) mi - 1 vertices
+(C) mi vertices
+75. If a graph has 21 edges, 3 vertices
+(D) mi + 1 vertices
+of degree 4 and other vertices of
+degree 3, then the total number of
+79. The value of the Boolean function
+vertices are :
+represented
+(A) 13
+(A) 1
+(B) 14
+(B) 0
+(C)
+15
+(C) 2
+(D)
+16
+(D) 3
+IW - 15/26
+( 15) )
+( Turn over)
+80. If G be a connected planar simple
+graph with 'e' edges and 'V' vertices
+then the number of regions r'is
+(A) - -e+v-2 -
+(B) e+v- - 2
+(C) e-v+2
+(D) e+v+2
+101. A lattice is a partially ordered set in
+which :
+(A) a n b = inf(a, b) and a V b =
+sup(a, b) exist for any pair of
+elements a and b
+(B) a ub = inf(a, b) exist only
+(C) avb = sup(a, b) exist only
+(D) None of these
+102. Every finite Lattice L is :
+(A) Unbounded
+(B) Bounded
+(C) Bounded above only
+(D) Bounded below only
+103. Let N = {1, 2, 3, } be ordered by
+106. Let T be a finite non-empty tree,
+divisibility. Which of the following
+then
+statement is ture ?
+(A) T is non-planar
+(A) {24, 2, 6} is linearly ordered
+(B) T is a planar
+(B) {3, 15, 5} is linearly ordered
+(C) T has one less vertex than edge
+(C) (2, 8, 32, 4} is not linearly
+(D) None of these
+ordered
+(D) None of these
+107. Let a finite non-empty connected
+plannar graph have vertex, edge and
+104. A Boolean algebra B is a :
+face sets V, E and F respectively,
+(A)
+Bounded, distributive and
+then :
+complemented lattice
+(B) Unbounded, distributive and
+(A) IVI+IFIEI-
+complemented lattice
+(B) V-HF=E-
+(C) Bounded, commutative and
+(C) IV+F=E+1
+complemented lattice
+(D) None of these
+(D) Bounded, non-commulative
+108. The number of faces in any two plane
+and complemented lattice
+representations of the same finite
+105. For some positive integer n, finite
+planar graphs are :
+Boolean algebra has :
+(A) Not equal
+(A) 2n elements
+(B) Equal
+(B) n! elements
+(C) 2nd elements
+(C) 0
+(D) 2n+1 elements
+(D) None of these
+RS - 24/12
+( 19)
+(Turn over
+109. Any finite planar graph G can be
+112. If a partially ordered set (P, <) has
+coloured using :
+atleast n2 + 1 elements, then it has a
+totally ordered subset of size :
+(A) Six colours
+(A) n - 1
+(B) Five colours or fewer
+(B) n
+(C) Seven colours
+(C) n + 1
+(D)
+None of these
+(D) n!
+110. In any graph :
+113. Which of the following graphs are not
+(A) There is an odd number of
+connected ?
+vertices of even degree
+(A) V = Z, m, n joined if m - n is
+(B) There is an even number of
+even
+vertices of even degree
+(B) V = Z, m, n joined if m - n is
+(C) There is an odd number of
+prime
+vertices of odd degree
+(C) V = Z, m, n joined if |m - =5
+(D) There is an even number of
+or 7
+vertices of odd degree
+(D) None of these
+111. There is an Eulerian circuit in an finite
+114. In a finite loop-free graph, the sum of
+connected graph if and only if all its
+the degrees of the vertices is
+vertices have :
+equal to :
+(A)
+Odd degree
+(A) 0
+(B) Both odd and even degree
+(B) Infinite
+(C) Even degree
+(C) Thrice the number of edges
+(D) None of these
+(D)
+Twice the number of edges
+( 20 )
+Contd.
+RS - 24/12
+115. A graph is bipartite if and only if it has
+no circuit of :
+(A) Even length
+(B) Odd length
+(C) Both even and odd length
+(D) None of these
+(C) n does not divide k
+1
+Which of the following is not correct ?
+The set Q+ of positive rationals
+(D) n and k are primes
+(A)
+t
+is a group under ordinary
+4. The order of (123)(145) in the
+multiplication.
+permutation groupS5is
+(B) The subset (1, - 1, i, i) - of
+(A) 6
+complex numbers is a group
+(B) 3
+under complex multiplication.
+(C) 5
+(C) The
+(D) 9
+for n 1 is a group.under
+5.
+The group of even permutations of
+addition modulo n.
+n symbols is denoted by An and
+(D) The set {0, 1, 2, 3} is a group
+it is called alternating group of
+under multiplication modulo 4.
+degree n. Forn>1,An has order :
+2
+The set Z = {0, 1, in is a
+(A) n!
+group under multiplication modulo n
+if and only if :
+(B) (n+1)
+(A) n is a prime
+(c)
+(B) n is even
+(C) n is odd
+(D)
+(D) n is not a prime
+6.
+For every integer a and every
+3.
+Let G be a group and let a be an
+prime p :
+element of order n in G. If ak=e,
+(A) p mod p=pmod a
+then :
+(B) a° mod p = a mod p
+(A) n divides k
+(C) a° mod p==mpd p
+t
+(B) k divides n
+(D) a° mod p = p mod a
+RS - 24/12
+(2)
+Contd.
+7.
+The group of rotations of a cube is
+11.
+The polynomial 3x5 + 15x4 - 20x3 +
+isomorphic to :
+10x + 20 is irreducible over :
+(A) A4
+(A) R
+(B) S5
+(B) R - Q
+(C) S 4
+(C)
+(D) A5
+(D) Z
+8
+An integral domain is a commutative
+12
+Let G be a group and a, b E G such
+ring with unity and :
+that o(a)=6,o(b) = 2 and a 3 b - ba.
+(A) Zero-divisors
+Then o(ab) is :
+(A) 6
+(B) No zero-divisors
+(B) 8
+(C) Zero multipliers
+(c) 12
+(D) None of these
+2
+9.
+The characteristic of an integral
+13. The number of subgroups of order 2
+domain is :
+in the permutation group S3is:
+(A) 0 or non-prime
+(A) 1
+(B) 0 or even number
+(B) 3
+(C) 0 or odd number
+(C) 12
+(D) 0 or prime
+(D) 2
+10. If F is a field of characteristics 0, then
+14. If G is an abelian group, then the
+F contains a subfield isomorphic to
+number of conjugacy classes equal
+the :
+to :
+(A) Irrational numbers
+(A) o(G)
+(B) Rational numbers
+(B) 1
+(C) Even numbers
+(C) p(G)-o(Z(G))
+(D) 2
+(D) Odd numbers
+RS - 24/12
+(3 )
+( Turn over )
+6
+Let : A B is mapping from set A
+to set B, and f is one-one and onto.
+Then 1 : B
+Ais :
+(A) One-one and onto
+(B) One-one but not onto
+(C) Not one-one, but onto
+(D) Neither one-one nor onto
+7
+The power set of A 11 io, {0}, {{0}}, 5}
+consists of :
+(A) 16 elements
+(B) 15 elements
+(C) 32 elements
+(D) None of these
+Contd.
+(2)
+The order of a subgroup of a group
+ABBY
+2
+G of order 19 is :
+(A) 1
+(C) 3
+(B) 19
+(D) 1
+(C) 1 or 19
+In
+12. Let S = {1, 2, 3, 4} and
+(D) 19
+9
+(GRAZ) then A-1 is':
+Which of the following is not
+correct ?
+(A) An even permutation
+(A) Every cyclic group is an abelian
+(B) An odd permutation
+group
+(C) Not a permutation
+(B) Every group of odd order is
+(D) An identity permutation
+cyclic
+(C) The order of a cyclic group and
+e.g. 9 & have cyclife
+Let G = {Z|ZeC,| ZI = 1}, C complex
+the order of its generating
+numbers. Then which of the following
+element is equal.
+is true ?
+(D) Every subgroup of a cyclic
+group is cyclic
+(A) G doesn't form a semigroup with Idor
+10
+Let G be a group of order 10. Then :
+(B) G doesn't form a monoid
+with Enver
+(A)
+All proper subgroups of G are
+(C) G doesn't form a group
+abelian
+(D) None of these
+(B) Some but not all proper
+subgroups of G are abelian
+14. The number of algebraic terms in
+(C) No proper subgroup of G is
+expansion of a determinant of order
+abelian
+5 is :
+(D) All proper subgroups of G, with
+(A) 24
+only even order, are abelian
+(B) 120
+11
+The number of generators of a cyclic
+(C) 60
+group of order 6, is :
+= 7/66
+(D) 121
+(A) 6
+CO-17/18
+( 3)
+(Turn over)
+1
+Which of the following is not correct ?
+(C) n does not divide k
+(A)
+The set Q+ of positive rationals
+(D) n and k are primes
++
+is a group under ordinary
+4.
+The order of (123)(145) in the
+multiplication.
+permutation group S5 is
+(B) The subset {1,-1,i,-i} of
+(A) 6
+complex numbers is a group
+(B) 3
+under complex multiplication.
+(C) 5
+(C) The setZ,={0.1,2,....n-1
+for n is a group.under
+(D) 9
+addition modulo n.
+5.
+The group of even permutations of
+(D) The set {0, 1, 2, 3} is a group
+n symbols is denoted by An and
+under multiplication modulo 4
+it is called alternating group of
+2
+The a
+degree n. For n > 1,A has order :
+(A) n!
+group under multiplication modulo n
+if and only if :
+(B) (n+1)
+(A) n is a prime
+(B) n is even
+(c)
+(C) n is odd
+(D)
+(D) n is not a prime
+6. For every integer a and every
+3.
+Let G be a group and let a be an
+prime p :
+element of order n in G. If ak=e,
+(A) p mod p=pmod a
+then :
+(B) a° mod p = a mod p p
+(A) n divides k
+t
+(C) a° mod p
+(B) k divides n
+(D) a° mod p = p mod a
+RS - 24/12
+(2)
+Contd.
+7.
+The group of rotations of a cube is
+11
+The polynomial 3x 5 + 15x4-20x3 +
+isomorphic to :
+10x + 20 is irreducible over :
+(A) A4
+(A) R
+(B) S5
+(B) R - 0
+(C) S4
+(C) C
+(D) A5
+(D) Z
+8
+An integral domain is a commutative
+12.
+Let G be a group and a, b E G such
+ring with unity and :
+that o(a)=6,o(b)=2andab = ba.
+Then o(ab) is :
+(A) Zero-divisors
+(A) 6
+(B) No zero-divisors
+(B) 8
+(C) Zero multipliers
+(c) 12
+(D) None of these
+(D) 2
++
+9.
+The characteristic of an integral
+13. The number of subgroups of order 2
+domain is :
+in the permutation group S3is :
+(A) 0 or non-prime
+(A) 1
+(B) 0 or even number
+(B) 3
+(C) 0 or odd number
+(C) 12
+(D) 0 or prime
+(D) 2
+10. If F is a field of characteristics 0, then
+14. If G is an abelian group, then the
+F contains a subfield isomorphic to
+number of conjugacy classes equal
+the :
+to :
+(A) Irrational numbers
+(A) o(G)
+(B) Rational numbers
+(B) 1
+(C) Even numbers
+(C) o(G)-o(Z(G))
+(D) Odd numbers
+(D) 2
+RS - 24/12
+(3 )
+( Turn over )
+15. Let G be an abelian group with the
+identity e. Which one of the following
+statement is true ?
+(A) H={XE G : order of X is odd} is
+a subgroup of G
+(B) H={x E G : order of X is
+even}u{e} is a subgroup of G
+(C) Every subgroup of G is normal
+(D) G is cyclic
+16. In the ring Zg[x] , the element
+4x2 + 6x + 3 is :
+(A) A nilpotent
+(B) A unit
+(C) A idempotent
+(D) A non-zero divisor
+17. Suppose that  : Z20
+Z20
+is
+an
+automorphisim such that o(5) = 5, the
+number of possibilities for 0(1) is :
+(A) 4
+(B) 1
+(C) 5
+(D) 20
+1.
+A non-empty subset H of a group G
+(C) (ab) = ( a ) (b)
+is a subgroup of G if a E H, beH
+ab E H and :
+4.
+A homomorphism 0 from G into is
+(A) a e H,be H ab = ba
+said to be an isomorphism if :
+(B) (ab)c = a(bc) for all a, b, C E H
+(A) 0 is onto
+(C) there exists an identity
+element e E G such that
+(B) 0 is into
+ea = ae = a for all a EH
+(c) is one to one
+(D) a e H = a-1 E H where a-1 is
+(D) ois many to one
+the inverse of a in G
+5.
+A field is a:
+2.
+The subgroup N of a group G is a
+(A) Division ring
+normal subgroup of G if and only if
+(A) It has only left coset of NinG
+(B) Commutative ring
+(B) It has only right coset of NinG
+(C) Commutative division ring
+(C) Every left coset of N in G is a
+(D) Intergral domain
+right coset of N in G
+6/
+If ois a homomorphism from a ring R
+(D) gN # Ng for every g E G
+into the ring R', then :
+3.
+A mapping from a group G into a
+(A) (-a)=o(a)
+group G is said to be a
+homomorphism if for all a, b E G :
+(A)x (ab)=o(a)+o(b)
+(C)
+(B)
+(D) (-a)=o(a-1)
+IW 15/26
+(2)
+Contd.
+/
+7.
+If U is an ideal of the ring R then :
+(C) 62
+(A) R + U is a ring
+(D) 63
+(B) R/U is a ring
+11
+A homomorphism of a group into
+(C) RU is a ring
+itself is called :
+(D)
+R -U is a ring
+(A) An isomorphism
+8.
+The g. C. d. of 12 and 30 is :
+(B) An endomorphism
+(A) 4
+(c) An automorphism
+(B) 5
+(D) An abelian
+(C) 6
+12. The product of any four consecutive
+(D) 7
+integers is divisible by :
+9.
+For what value of p, 3p + 1 is a
+(A) 22
+son
+perfect square ?
+(B) 24
+Lue
+(A) 17
+(C) 25
+a
+(B) 13
+(D) 26
+(C) 7
+13. If S and T are subsets of a vector
+"
+(D) 5
+space V and if ScT then :
+10 If g. C. d. of (a, 30) = 1 then a4 + 59 is
+(A) L(S)cL(T)
+divisible by :
+(B) L(T)CL(S)
+(A) 60
+(C) L(T)=L(S)
+(B) 61
+(D) L(SUT)=L(S) - ((LT)
+IW - 15/26
+(3)
+(Turn over )

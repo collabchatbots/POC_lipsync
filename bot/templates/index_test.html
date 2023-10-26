@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Equinox Bot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #3498db; /* Change the background color to a blue shade */
+            color: #fff;
+            text-align: center;
+            padding: 10px; /* Reduced padding */
+            font-size: 18px; /* Reduced font size to 18px */
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+        }
+
+        .conversation {
+            flex-grow: 1;
+            max-height: calc(100vh - 250px);
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .message {
+            margin: 10px;
+            padding: 10px;
+            border-radius: 10px;
+            max-width: 70%;
+        }
+
+        .user-message {
+            background-color: #e8f5ff;
+            float: left;
+            align-self: flex-start;
+        }
+
+        .bot-message {
+            background-color: #3f3f3f;
+            color: #fff;
+            float: right;
+            align-self: flex-end;
+        }
+
+        /* Style anchor tags within bot's messages */
+        .bot-message a {
+            color: gold;
+        }
+
+        .user-input {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            align-items: stretch;
+            margin-top: 20px;
+        }
+
+        textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            resize: vertical;
+        }
+
+        .submit-button {
+            background-color: #3498db; /* Changed button color to blue */
+            color: #fff;
+            border: none;
+            padding: 5px 15px;
+            cursor: pointer;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        .submit-button:hover {
+            background-color: #2980b9; /* Darker blue on hover */
+        }
+
+        .submit-button:focus {
+            outline: none;
+        }
+
+        #clear-history {
+            background-color: #e74c3c;
+            color: #fff;
+            border: none;
+            padding: 5px 10px;
+            cursor: pointer;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+            margin-left: auto;
+        }
+
+        #clear-history:hover {
+            background-color: #c0392b;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Bot</h1>
+    </header>
+    <div class="container">
+        <div class="conversation">
+            {% for entry in conversation_history %}
+            <div class="message {% if entry.0 == 'user' %}user-message{% else %}bot-message{% endif %}">
+                {% if entry.0 == 'bot' %}
+                    <!-- Check if the message is from the bot -->
+                    {{ entry.1 | safe }} <!-- Use the safe filter to render HTML as-is -->
+                {% else %}
+                    {{ entry.1 }}
+                {% endif %}
+            </div>
+            {% endfor %}
+        </div>
+        <form action='/analyze' method='get' class="user-input">
+            <textarea name='text' id="text" rows="4" placeholder="Type your message..."></textarea>
+            <div id="clear-history">Clear History</div>
+            <button class="submit-button" type="submit">Send</button>
+        </form>
+    </div>
+    <script>
+        document.getElementById("clear-history").addEventListener("click", function() {
+            window.location.href = "/?clear_history";
+        });
+    </script>
+</body>
+
+</html>
